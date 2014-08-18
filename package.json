@@ -1,0 +1,19 @@
+{
+  "name": "NodeJs-Server-Demo",
+  "version": "0.0.0",
+  "description": "NodeJs-Server-Demo ==================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/down4keeps/NodeJs-Server-Demo"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/down4keeps/NodeJs-Server-Demo/issues"
+  },
+  "homepage": "https://github.com/down4keeps/NodeJs-Server-Demo"
+}
